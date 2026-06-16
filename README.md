@@ -43,7 +43,7 @@ Status      :: Building products before college
 
 Mission     :: Build useful AI systems
                that solve real problems.
-````
+
 
 ---
 
@@ -55,7 +55,7 @@ I build systems.
 
 My interests sit at the intersection of:
 
-```yaml
+yaml
 Artificial Intelligence:
   - Agentic Workflows
   - AI Products
@@ -80,7 +80,7 @@ Research Areas:
   - LLM Fine-Tuning
   - Multi-Agent Systems
   - AI Infrastructure
-```
+
 
 ---
 
@@ -88,7 +88,7 @@ Research Areas:
 
 <div align="center">
 
-```text
+text
 ┌──────────────────────────────────────────────┐
 │ AI ENGINEERING STUDIO                        │
 ├──────────────────────────────────────────────┤
@@ -98,7 +98,7 @@ Research Areas:
 │ Experiment With RAG Systems                 │
 │ Test LLM Architectures                      │
 └──────────────────────────────────────────────┘
-```
+
 
 </div>
 
@@ -135,7 +135,7 @@ tested and deployed rapidly.
 
 <div align="center">
 
-```mermaid
+mermaid
 mindmap
   root((HAAROON))
     AI Engineering
@@ -150,7 +150,7 @@ mindmap
       Fine Tuning
       Multi Agent Systems
       Infrastructure
-```
+
 
 </div>
 
@@ -178,20 +178,20 @@ mindmap
 
 # > roadmap_2026
 
-```diff
+diff
 + Launch Production AI Products
 + Publish Advanced RAG Projects
 + Master Agentic Architectures
 + Build AI SaaS Systems
 + Contribute To Open Source
 + Work With Real Users
-```
+
 
 ---
 
 # > philosophy
 
-```python
+python
 while alive:
 
     build()
@@ -203,7 +203,7 @@ while alive:
     improve()
 
     repeat()
-```
+
 
 ---
 
