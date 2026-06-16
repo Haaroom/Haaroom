@@ -84,11 +84,10 @@ Research Areas:
 
 ---
 
+````markdown id="6e20qt"
 # > currently_building
 
-<div align="center">
-
-text
+```text
 ┌──────────────────────────────────────────────┐
 │ AI ENGINEERING STUDIO                        │
 ├──────────────────────────────────────────────┤
@@ -98,14 +97,13 @@ text
 │ Experiment With RAG Systems                 │
 │ Test LLM Architectures                      │
 └──────────────────────────────────────────────┘
-
-
-</div>
+```
 
 A vibe-coded environment where AI systems can be designed,
 tested and deployed rapidly.
 
 ---
+````
 
 # > tech_stack
 
