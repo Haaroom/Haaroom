@@ -31,7 +31,7 @@
 
 # > whoami
 
-bash
+```bash
 Name        :: Haaroon
 Age Group   :: Student
 Education   :: Grade 12 (Higher Secondary)
@@ -43,7 +43,7 @@ Status      :: Building products before college
 
 Mission     :: Build useful AI systems
                that solve real problems.
-
+```
 
 ---
 
