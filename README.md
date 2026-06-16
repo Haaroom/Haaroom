@@ -70,7 +70,7 @@ Prediction, classification, and data analysis projects.
 
 ## 🤝 Connect With Me
 
-LinkedIn: www.linkedin.com/in/haaroon-basha
+LinkedIn: https://www.linkedin.com/in/ahamed-haaroon-14ba65337/
 
 GitHub: https://github.com/Haaroom
 
