@@ -84,7 +84,7 @@ Research Areas:
 
 ---
 
-````markdown id="6e20qt"
+
 # > currently_building
 
 ```text
@@ -103,7 +103,6 @@ A vibe-coded environment where AI systems can be designed,
 tested and deployed rapidly.
 
 ---
-````
 
 # > tech_stack
 
