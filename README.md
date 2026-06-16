@@ -217,4 +217,19 @@ while alive:
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:00F0FF,50:6A00FF,100:FF00FF"/>
 
 </div>
+# > featured_projects
+
+```yaml
+AI Engineering Studio:
+  status: building
+  stack: AI Agents, RAG, React, Node.js
+
+PDF RAG:
+  status: completed
+  stack: LangChain, Vector Search
+
+Multi Agent Research:
+  status: experimenting
+  stack: LLMs, Tool Calling
+```
 
