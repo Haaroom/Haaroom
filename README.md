@@ -130,9 +130,7 @@ tested and deployed rapidly.
 
 # > neural_network
 
-<div align="center">
-
-mermaid
+```mermaid
 mindmap
   root((HAAROON))
     AI Engineering
@@ -147,11 +145,10 @@ mindmap
       Fine Tuning
       Multi Agent Systems
       Infrastructure
-
-
-</div>
+```
 
 ---
+
 
 # > github_metrics
 
@@ -175,16 +172,17 @@ mindmap
 
 # > roadmap_2026
 
-diff
+```diff
 + Launch Production AI Products
 + Publish Advanced RAG Projects
 + Master Agentic Architectures
 + Build AI SaaS Systems
 + Contribute To Open Source
 + Work With Real Users
-
+```
 
 ---
+
 
 # > philosophy
 
