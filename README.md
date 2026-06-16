@@ -1,53 +1,177 @@
-# Hi, I'm Haaroon 👋
+# Haaroon
 
-12th-grade student building AI systems, RAG pipelines, LangChain applications, and full-stack products.
+> AI Engineer • Full-Stack Developer • Builder
 
-## What I'm Working On
+I build AI products, agentic systems, retrieval pipelines, and full-stack applications from idea to deployment.
 
-- LangChain Applications
-- Retrieval-Augmented Generation (RAG)
-- LlamaIndex
+Currently focused on LLM engineering, RAG architectures, AI agents, fine-tuning workflows, and production-grade AI applications.
+
+---
+
+## About Me
+
+- Building AI-powered products and developer tools
+- Designing multi-agent and RAG systems
+- Exploring LLM fine-tuning and model optimization
+- Developing full-stack SaaS applications
+- Interested in systems thinking, networking, and software architecture
+- 12th Grade Student (Higher Secondary) balancing academics with engineering projects
+
+---
+
+## Core Expertise
+
+### AI Engineering
+
+- LLM Applications
 - AI Agents
-- Full-Stack Development
-- Machine Learning
+- Agentic Workflows
+- Multi-Agent Systems
+- Prompt Engineering
+- Function Calling
+- Tool Use Architectures
+- Structured Outputs
+- Evaluation Pipelines
+- AI Product Development
+
+### Retrieval Systems
+
+- Retrieval-Augmented Generation (RAG)
+- Advanced RAG Architectures
+- Hybrid Search
+- Vector Databases
+- Semantic Search
+- Knowledge Graph Integrations
+- Document Intelligence
+- PDF Processing Pipelines
+- Context Engineering
+
+### LLM & Model Engineering
+
+- Fine-Tuning Fundamentals
+- LoRA / QLoRA
+- Transformer Architectures
+- Embedding Models
+- Model Serving
+- Quantization
+- Local LLM Deployment
+- Ollama Ecosystem
+
+### Machine Learning & Deep Learning
+
+- Scikit-Learn
+- TensorFlow
+- NumPy
+- Pandas
+- CNNs
+- LSTMs
+- Autoencoders
+- Transformers
+- Feature Engineering
+- Model Evaluation
+
+---
+
+## Full-Stack Engineering
+
+### Frontend
+
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Responsive UI Design
+
+### Backend
+
+- Node.js
+- Express.js
+- REST APIs
+- Authentication Systems
+- API Design
+
+### Databases
+
+- MongoDB
+- SQL
+- Database Design
+- Query Optimization
+
+### Deployment & DevOps
+
+- Git
+- GitHub
+- Linux
+- Docker (Learning & Experimentation)
+- Cloud Deployment Basics
+
+---
+
+## Networking & Systems
+
+- Computer Networks Fundamentals
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- Client-Server Architecture
+- API Communication
+- Basic Cybersecurity Concepts
+
+---
+
+## Projects & Experiments
+
+### AI Engineering Studio
+
+A vibe-coded AI development environment focused on:
+
+- Agent Creation
+- Workflow Orchestration
+- Prompt Management
+- Knowledge Integration
+- AI Application Prototyping
+
+### RAG Systems
+
+Built and experimented with:
+
+- PDF RAG Pipelines
+- Multimodal Retrieval
+- Local LLM Knowledge Systems
+- Semantic Search Applications
+- Enterprise-style Knowledge Assistants
+
+### AI Agents
+
+Developed agents capable of:
+
+- Tool Calling
+- Web Search Integration
+- Workflow Automation
+- Context-Aware Decision Making
+
+---
 
 ## Tech Stack
 
-### AI
+```text
+Languages
+Python • JavaScript • SQL
 
-Python • LangChain • LlamaIndex • RAG • Ollama
+AI Engineering
+LangChain • LlamaIndex • Ollama • RAG • AI Agents
 
-### Machine Learning
+Machine Learning
+Scikit-Learn • Pandas • NumPy • TensorFlow
 
-Scikit-Learn • Pandas • NumPy
+Backend
+Node.js • Express.js
 
-### Deep Learning
+Frontend
+React • HTML • CSS
 
-TensorFlow • CNNs • LSTMs • Transformers
+Databases
+MongoDB • SQL
 
-### Full Stack
-
-React • Node.js • Express • MongoDB
-
-## Highlights
-
-- Built multiple LangChain projects
-- Experimented with Multimodal RAG systems
-- Worked on PDF-based RAG pipelines
-- Implemented CNNs, LSTMs, Autoencoders and Transformers
-- Building AI Engineering Studio
-
-## 2026 Goals
-
-- Publish production-grade AI projects
-- Contribute to open source
-- Build AI SaaS products
-- Start freelancing
-
-## Connect
-
-LinkedIn:
-linkedin.com/in/ahamed-haaroon-14ba65337
-
-GitHub:
-github.com/Haaroom
+Tools
+Git • GitHub • Linux
