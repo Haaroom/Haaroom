@@ -1,5 +1,4 @@
- md
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F0FF,50:6A00FF,100:FF00FF&text=HAAROON&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20GRADE%2012&descAlignY=60"/>
 
@@ -55,8 +54,9 @@ I build systems.
 
 My interests sit at the intersection of:
 
-yaml
+```yaml
 Artificial Intelligence:
+  - Agentic Workflows
   - Agentic Workflows
   - AI Products
   - LLM Applications
@@ -81,7 +81,7 @@ Research Areas:
   - Multi-Agent Systems
   - AI Infrastructure
 
-
+```
 ---
 
 
@@ -186,21 +186,15 @@ mindmap
 
 # > philosophy
 
-python
+```python
 while alive:
 
     build()
-
     fail()
-
     learn()
-
     improve()
-
     repeat()
-
-
----
+```
 
 <div align="center">
 
